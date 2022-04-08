@@ -1,10 +1,22 @@
 
 body{
     background-color: blue;
+    height: 100vh;
 }
 
 h1{
 background-color: aqua;
 color: brown;
 font-size: 20px;
+}
+
+.d1{
+    width: 200px;
+    display: flex;
+    height: 200px;
+    border: 1px solid yellow;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
 }
